@@ -11,7 +11,7 @@ locals {
     application = "Lab_3"
   }
 
-  service_prefix = "lab3-JG "
+  service_prefix = "lab3-JG"
   # service_prefix = "lab3-CHG ME!"
 }
 
